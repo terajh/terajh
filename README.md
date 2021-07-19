@@ -13,4 +13,4 @@
 - Crawling, Mecro Projects
 - Continuing ...
 
-[![terjoo's github stats](https://github-readme-stats.vercel.app/api?username=terajh)](https://github.com/anuraghazra/github-readme-stats)
+![terjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=terjoo&show_icons=true&theme=radical)
