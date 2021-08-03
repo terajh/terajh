@@ -9,7 +9,7 @@
 
 ### Interest
 - FrontEnd (React, TypeScript)
-- BackEnd (NodeJS, Flask, Django)
+- BackEnd (NodeJS)
 - Crawling, Mecro Projects
 - Continuing ...
 
