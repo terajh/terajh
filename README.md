@@ -2,7 +2,7 @@
 
 ### Interest
 - FrontEnd (React, TypeScript)
-- BackEnd (NodeJS)
+- BackEnd (NodeJS, Mysql)
 - Crawling, Mecro Projects
 - Algorithm (C++)
 - Continuing ...
