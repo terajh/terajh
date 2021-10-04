@@ -1,3 +1,5 @@
+<div align="center" style="text-align:center; border: solid 1px;">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48afc5&height=200&section=header&text=terajh's%20Github&fontSize=70&fontColor=ffffff)
 
 <div align="center" style="text-align:center">
@@ -23,4 +25,5 @@
 [![terajh](http://mazassumnida.wtf/api/generate_badge?boj=terajoohyun)](https://solved.ac/terajoohyun)
 
 
+</div>
 </div>
