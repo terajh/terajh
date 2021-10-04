@@ -2,8 +2,9 @@
 
 <div align="center" style="text-align:center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooYeonida&count_bg=%23ADCEEB&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fans2552&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=terajoohyun)](https://solved.ac/terajoohyun)
+  
 <h3 align="center"> 개발자 노트 📖 </h3>
 <br>
 <h2 align="center"> 💻 Career 💻  </h2>
@@ -21,7 +22,7 @@
 
 [![terajh](http://mazassumnida.wtf/api/generate_badge?boj=terajoohyun)](https://solved.ac/terajoohyun)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fans2552&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=terajoohyun)](https://solved.ac/terajoohyun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terajh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
