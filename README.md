@@ -13,7 +13,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Intern** | 2021. 7 ~ 2021. 10 | BackEnd Developer | **블루미**|
+| **Intern** | 2021. 7 ~ 2021. 10 | Web Developer | **블루미**|
 | **Intern** | 2020. 7 ~ 2021. 6 | Web Developer | **크레스콤** |
 | **🧑🏻‍🎓Education** | 2016. 3 ~ 2022. 2| Department of Software | **A University** |
 </p>
