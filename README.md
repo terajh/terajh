@@ -9,7 +9,6 @@
   
 <br>
 
-![terjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=terajh&show_icons=true&theme=radical)
 
 [![terajh](http://mazassumnida.wtf/api/generate_badge?boj=terajoohyun)](https://solved.ac/terajoohyun)
 
