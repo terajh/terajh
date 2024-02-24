@@ -1,6 +1,6 @@
 <div align="center" style="text-align:center; border: solid 1px;">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=terajh's%20Github&fontSize=50&fontColor=ffffff)
+![header](https://github.com/terajh/terajh/assets/55892515/f942920b-9814-491d-8984-9d4c4cb884d0)
 
 <div align="center" style="text-align:center; display:none;">
   
